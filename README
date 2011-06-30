@@ -1,0 +1,11 @@
+This plugin works to spawn mobs above Mob Spawners. It spawns mobs based on what block the spawner is set on.
+For instance, block 89 (GlowStone), is the trigger for spiders. This is all set in the config.properties file. 
+The spawning occurs when there is a redstone change underneath the trigger block.  
+
+**IMPORTANT**
+The config.properties and data.txt files located on the github repo DO NOT DO ANYTHING. 
+They should be located in the plugins/Redstone Spawning folder that the plugin creates.
+These files are here as an example. 
+
+Thanks,
+-bandless55
